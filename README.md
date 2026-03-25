@@ -10,4 +10,4 @@ No laptop. Just a phone.
 - cybersecurity/ — security tools and concepts
 
 ## Follow the journey
-Instagram: @operator.null
+Instagram: @nullphasor
